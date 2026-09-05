@@ -43,7 +43,7 @@ PaladinsCat brings player profiles, match histories, champion statistics, and ac
 
 PaladinsCat's public frontend, Discord integration, research, releases, and localization are open for inspection and pull requests. The core backend, infrastructure, and internal operations remain private. The easiest place to contribute today is **[PaladinsCat-locales](https://github.com/PaladinsCat/PaladinsCat-locales)**, either through GitHub or our hosted translation workspace.
 
-Found a security issue? Please follow our **[security policy](https://github.com/PaladinsCat/PaladinsCat/security/policy)** instead of opening a public report.
+Found a security issue? Please follow our **[security policy](https://github.com/PaladinsCat/PaladinsCat/security/policy)** and use its private vulnerability reporting form instead of opening a public report.
 
 <div align="center">
   <sub><strong>Paladins: Comp Analytics Tool</strong> — advanced statistics, or just meow.</sub>
