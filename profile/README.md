@@ -37,12 +37,11 @@ PaladinsCat brings player profiles, match histories, champion statistics, and ac
 | Repository | Stack | Scope |
 | :--- | :--- | :--- |
 | **[Frontend](https://github.com/PaladinsCat/PaladinsCat-frontend)** | Next.js · React · TypeScript | Player profiles, matches, analytics, localization, and operations UI |
-| **[Backend](https://github.com/PaladinsCat/PaladinsCat-backend)** | Rust · Axum · PostgreSQL | API, workers, ingestion, recovery pipelines, and Hi-Rez relay |
 | **[Discord bot](https://github.com/PaladinsCat/PaladinsCat-discord-bot)** | Rust · Tokio · Twilight | Commands, embeds, caching, and queued match-image rendering |
 
 ## Open collaboration
 
-PaladinsCat's application source, public research, releases, and localization are open for inspection and pull requests. Infrastructure and internal operations remain private. The easiest place to contribute today is **[PaladinsCat-locales](https://github.com/PaladinsCat/PaladinsCat-locales)**, either through GitHub or our hosted translation workspace.
+PaladinsCat's public frontend, Discord integration, research, releases, and localization are open for inspection and pull requests. The core backend, infrastructure, and internal operations remain private. The easiest place to contribute today is **[PaladinsCat-locales](https://github.com/PaladinsCat/PaladinsCat-locales)**, either through GitHub or our hosted translation workspace.
 
 Found a security issue? Please follow our **[security policy](https://github.com/PaladinsCat/PaladinsCat/security/policy)** instead of opening a public report.
 
