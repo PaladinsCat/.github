@@ -38,12 +38,18 @@ PaladinsCat brings player profiles, match histories, champion statistics, and ac
 | :--- | :--- | :--- |
 | **[Frontend](https://github.com/PaladinsCat/PaladinsCat-frontend)** | Next.js · React · TypeScript | Player profiles, matches, analytics, localization, and operations UI |
 | **[Discord bot](https://github.com/PaladinsCat/PaladinsCat-discord-bot)** | Rust · Tokio · Twilight | Commands, embeds, caching, and queued match-image rendering |
+| **[Launcher](https://github.com/PaladinsCat/PaladinsCat-Launcher)** | Rust | Localization, IME compatibility, and performance-mod package management |
+| **[Mods](https://github.com/PaladinsCat/PaladinsCat-mods)** | Rust | Client-mod releases and rollback tooling |
+| **[Locales](https://github.com/PaladinsCat/PaladinsCat-locales)** | Translation catalogs | Frontend and native game localization, download catalog, and Weblate integration |
 
 ## Open collaboration
 
-PaladinsCat's public frontend, Discord integration, research, releases, and localization are open for inspection and pull requests. The core backend, infrastructure, and internal operations remain private. The easiest place to contribute today is **[PaladinsCat-locales](https://github.com/PaladinsCat/PaladinsCat-locales)**, either through GitHub or our hosted translation workspace.
+PaladinsCat's public frontend, Discord integration, launcher, mods, research, releases, and localization are open for inspection and pull requests. The core backend, Pro frontend, infrastructure, and internal operations remain private. The easiest place to contribute today is **[PaladinsCat-locales](https://github.com/PaladinsCat/PaladinsCat-locales)**, either through GitHub or our hosted translation workspace.
 
 Found a security issue? Please follow our **[security policy](https://github.com/PaladinsCat/PaladinsCat/security/policy)** and use its private vulnerability reporting form instead of opening a public report.
+
+This organization profile is [MIT licensed](https://github.com/PaladinsCat/.github/blob/main/LICENSE). Linked repositories
+and third-party materials retain their own license terms.
 
 <div align="center">
   <sub><strong>Paladins: Comp Analytics Tool</strong> — advanced statistics, or just meow.</sub>
